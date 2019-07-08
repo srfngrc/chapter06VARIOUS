@@ -37,8 +37,9 @@ namespace Ch06Ex01_02_etc
         static void Main(string[] args)
         {
             int[] myArray = { 1, 8, 3, 6, 2, 5, 9, 3, 0, 2 };
+            int Srfn = myArray.Max();
             int maxVal = MaxValue(myArray);
-            Console.WriteLine("The maximum value in myArray is {0}", maxVal);
+            Console.WriteLine("The maximum value in myArray is {0} and the other {1}", maxVal, Srfn);
             Console.ReadKey();
         }
     }
