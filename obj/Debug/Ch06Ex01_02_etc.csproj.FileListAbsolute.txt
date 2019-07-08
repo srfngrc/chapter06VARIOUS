@@ -1,0 +1,7 @@
+C:\VSRepositories\chapter06VARIOUS\bin\Debug\Ch06Ex01_02_etc.exe.config
+C:\VSRepositories\chapter06VARIOUS\bin\Debug\Ch06Ex01_02_etc.exe
+C:\VSRepositories\chapter06VARIOUS\bin\Debug\Ch06Ex01_02_etc.pdb
+C:\VSRepositories\chapter06VARIOUS\obj\Debug\Ch06Ex01_02_etc.csprojAssemblyReference.cache
+C:\VSRepositories\chapter06VARIOUS\obj\Debug\Ch06Ex01_02_etc.csproj.CoreCompileInputs.cache
+C:\VSRepositories\chapter06VARIOUS\obj\Debug\Ch06Ex01_02_etc.exe
+C:\VSRepositories\chapter06VARIOUS\obj\Debug\Ch06Ex01_02_etc.pdb
